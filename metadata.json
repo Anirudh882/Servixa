@@ -1,0 +1,6 @@
+{
+  "name": "Servixa - Local Skilled Workers & Repair Marketplace",
+  "description": "Connect with verified local electricians, plumbers, bike and auto mechanics, AC repair technicians, and skilled craftsmen in your town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
